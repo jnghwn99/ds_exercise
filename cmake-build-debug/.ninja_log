@@ -1,10 +1,10 @@
 # ninja log v5
-1	220	7303090352332662	build.ninja	912139d4c42c8d71
-1	840	7302640554481401	CMakeFiles/DS.dir/Exercise10.cpp.obj	4e1e33563c414d3e
-581	716	7302640783585507	DS.exe	1c76b3aa090ea99f
-3	444	7300280544242480	CMakeFiles/DS.dir/Exercise06.cpp.obj	e14f9e85c086d6ee
-0	473	7302639907615112	CMakeFiles/DS.dir/main.cpp.obj	e84b20d04d2b958d
-3	415	7300387390572190	CMakeFiles/DS.dir/Activity01.cpp.obj	d259914367eb67b9
-3	484	7301215823334291	CMakeFiles/DS.dir/Exercise08.cpp.obj	d97abd3e5b72abbb
-0	578	7302640782264526	CMakeFiles/DS.dir/Exercise02.cpp.obj	b971843ce5c92dbb
 9	713	7303525347426047	CMakeFiles/DS.dir/Exercise10.cpp.obj	4e1e33563c414d3e
+0	348	7304286349838727	build.ninja	912139d4c42c8d71
+3	444	7300280544242480	CMakeFiles/DS.dir/Exercise06.cpp.obj	e14f9e85c086d6ee
+541	670	7303984587831511	DS.exe	e225332f225c39fd
+3	415	7300387390572190	CMakeFiles/DS.dir/Activity01.cpp.obj	d259914367eb67b9
+0	473	7302639907615112	CMakeFiles/DS.dir/main.cpp.obj	e84b20d04d2b958d
+0	578	7302640782264526	CMakeFiles/DS.dir/Exercise02.cpp.obj	b971843ce5c92dbb
+3	484	7301215823334291	CMakeFiles/DS.dir/Exercise08.cpp.obj	d97abd3e5b72abbb
+3	540	7303984586568541	CMakeFiles/DS.dir/Exercise11.cpp.obj	a3100ebdf344618a

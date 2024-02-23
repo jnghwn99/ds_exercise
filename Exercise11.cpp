@@ -2,8 +2,8 @@
 #include <vector>
 
 enum class city : int {
-  MOSCOW,
   LONDON,
+  MOSCOW,
   SEOUL,
   SEATTLE,
   DUBAI,
@@ -77,4 +77,5 @@ int main() {
   g.addEdge(city::SYDNEY, city::LONDON, 8000);
   g.removeEdge(city::SYDNEY, city::LONDON);
 
+  return 0;
 }

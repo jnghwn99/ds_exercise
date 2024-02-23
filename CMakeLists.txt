@@ -5,6 +5,5 @@ set(CMAKE_CXX_STANDARD 14)
 
 
 add_executable(DS
-		Exercise10.cpp
-		Exercise11.cpp
+		Exercise12.cpp
 )
