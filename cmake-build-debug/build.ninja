@@ -49,18 +49,6 @@ cmake_ninja_workdir = C$:/Users/jxxng/CLionProjects/DS/cmake-build-debug/
 
 build cmake_object_order_depends_target_DS: phony || CMakeFiles/DS.dir
 
-build CMakeFiles/DS.dir/Exercise/Exercise12.cpp.obj: CXX_COMPILER__DS_unscanned_Debug C$:/Users/jxxng/CLionProjects/DS/Exercise/Exercise12.cpp || cmake_object_order_depends_target_DS
-  DEP_FILE = CMakeFiles\DS.dir\Exercise\Exercise12.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\DS.dir
-  OBJECT_FILE_DIR = CMakeFiles\DS.dir\Exercise
-
-build CMakeFiles/DS.dir/Exercise/Exercise13.cpp.obj: CXX_COMPILER__DS_unscanned_Debug C$:/Users/jxxng/CLionProjects/DS/Exercise/Exercise13.cpp || cmake_object_order_depends_target_DS
-  DEP_FILE = CMakeFiles\DS.dir\Exercise\Exercise13.cpp.obj.d
-  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\DS.dir
-  OBJECT_FILE_DIR = CMakeFiles\DS.dir\Exercise
-
 build CMakeFiles/DS.dir/Exercise14.cpp.obj: CXX_COMPILER__DS_unscanned_Debug C$:/Users/jxxng/CLionProjects/DS/Exercise14.cpp || cmake_object_order_depends_target_DS
   DEP_FILE = CMakeFiles\DS.dir\Exercise14.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
@@ -75,7 +63,7 @@ build CMakeFiles/DS.dir/Exercise14.cpp.obj: CXX_COMPILER__DS_unscanned_Debug C$:
 #############################################
 # Link the executable DS.exe
 
-build DS.exe: CXX_EXECUTABLE_LINKER__DS_Debug CMakeFiles/DS.dir/Exercise/Exercise12.cpp.obj CMakeFiles/DS.dir/Exercise/Exercise13.cpp.obj CMakeFiles/DS.dir/Exercise14.cpp.obj
+build DS.exe: CXX_EXECUTABLE_LINKER__DS_Debug CMakeFiles/DS.dir/Exercise14.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\DS.dir
